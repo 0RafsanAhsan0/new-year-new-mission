@@ -10,7 +10,7 @@ body {
 
 /* banner style */
 header {
-    max-width: 1320px;
+    max-width: 1600px;
     margin: 0 auto;
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/BannerImage.png");
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ header {
 /* main part style */
 /* off section style */
 main {
-    max-width: 1320px;
+    max-width: 1600px;
     margin: 0 auto;
     text-align: center;
 }
@@ -76,7 +76,7 @@ main {
 }
 /* welcome section style */
 .welcome{
-    max-width: 1320px;
+    max-width: 1600px;
     margin: 0 auto;
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Vectorrr.png");
     background-repeat: no-repeat;
