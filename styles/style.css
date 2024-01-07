@@ -330,6 +330,26 @@ footer {
     margin: 0 auto;
     opacity: 30%;
     margin-top: 50px;
+}
 
+.middle {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+}
 
+.bottom-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom-text {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 50px;
+    margin-bottom: 120px;
 }
