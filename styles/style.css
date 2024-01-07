@@ -79,7 +79,7 @@ main {
 .welcome {
     max-width: 1600px;
     margin: 0 auto;
-    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Vectorrr.png");
+    background-image: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Vectorrr.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
