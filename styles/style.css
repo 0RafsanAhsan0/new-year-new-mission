@@ -165,6 +165,67 @@ main {
     padding-bottom: 20px;
 }
 
+/* coming-soon styles */
+.coming-soon {
+    max-width: 1600px;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+
+.coming-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.coming-title {
+    text-align: left;
+}
+
+.coming-title h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.coming-title h3 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 16px 0 22px 0px;
+}
+
+.coming-title p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.coming-year h3 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.coming-year p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 16px 0px 43px 0px;
+}
+.coming-img img{
+    background-color: aliceblue;
+    background-size: 400px;
+    border: 5px solid red;
+    border-radius: 390px;
+}
+
 /* portfolio styles */
 .portfolio {
     max-width: 1600px;
