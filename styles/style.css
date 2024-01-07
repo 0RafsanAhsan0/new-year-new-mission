@@ -74,3 +74,49 @@ main {
 .off-image img {
     margin: 48px 0px 120px 0px;
 }
+/* welcome section style */
+.welcome{
+    max-width: 1320px;
+    margin: 0 auto;
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url("../images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin-bottom: 120px;
+}
+.welcome-text{
+    text-align: left;
+    padding: 126px 552px 0px 120px;
+}
+.welcome-text h1{
+color: #FFF;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+}
+.welcome-text p{
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+padding: 24px 0px 48px 0px;
+}
+.welcome-btn{
+    background-color: transparent;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Inter;
+    margin-bottom: 142px;
+    cursor: pointer;
+}
+.welcome-btn:hover{
+    background-color: #1d0744;
+}
+
+
+
