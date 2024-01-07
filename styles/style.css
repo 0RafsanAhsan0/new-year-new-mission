@@ -37,3 +37,40 @@ header {
     font-size: 32px;
     font-weight: 400;
 }
+
+/* main part style */
+/* off section style */
+main {
+    max-width: 1320px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.off-text h1 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 100px;
+}
+
+#head1 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 48px;
+}
+
+#head2 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    padding-top: 16px;
+}
+
+.off-image img {
+    margin: 48px 0px 120px 0px;
+}
