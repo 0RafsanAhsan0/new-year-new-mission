@@ -87,6 +87,11 @@ main {
     margin-bottom: 120px;
 }
 
+.welcome-container {
+    display: flex;
+    align-items: center;
+}
+
 .welcome-text {
     text-align: left;
     padding: 126px 552px 0px 120px;
