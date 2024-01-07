@@ -146,6 +146,7 @@ main {
     border-radius: 8px;
     padding: 16px 32px;
     margin-top: 64px;
+    cursor: pointer;
 }
 
 .unique {
@@ -204,6 +205,10 @@ main {
     font-weight: 400;
 }
 
+.coming-year {
+    text-align: left;
+}
+
 .coming-year h3 {
     color: #F00;
     font-family: Inter;
@@ -219,11 +224,15 @@ main {
     font-weight: 400;
     margin: 16px 0px 43px 0px;
 }
-.coming-img img{
-    background-color: aliceblue;
-    background-size: 400px;
-    border: 5px solid red;
+
+.coming-img img {
+    border: 20px solid rgb(255, 255, 255);
     border-radius: 390px;
+}
+
+.coming-img {
+    border: 15px solid #F00;
+    border-radius: 470px;
 }
 
 /* portfolio styles */
@@ -404,6 +413,8 @@ footer {
 .bottom-container {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+
 }
 
 .bottom-text {
