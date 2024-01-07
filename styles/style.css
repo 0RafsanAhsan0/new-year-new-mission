@@ -97,7 +97,6 @@ main {
     font-size: 64px;
     font-weight: 900;
     line-height: 88px;
-    /* 137.5% */
 }
 
 .welcome-text p {
@@ -229,4 +228,108 @@ main {
     border-left: 0;
     border-top: 0;
     border-radius: 16px;
+}
+
+/* newsletter styles */
+.newsletter {
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    margin-bottom: 120px;
+}
+
+.letter-text h1 {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin: 40px 0px 22px 0px;
+}
+
+.letter-text p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.letter-form {
+    border-radius: 50px 0px 0px 50px;
+    padding: 25px 260px 25px 25px;
+    border: none;
+}
+
+.letter-btn {
+    border-radius: 0px 60px 60px 0px;
+    background-color: #F00;
+    padding: 19px 25px 22px 56px;
+    border: none;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-right: 40px;
+    cursor: pointer;
+}
+
+.letter-container {
+    padding: 80px 212px;
+}
+
+/* footer style */
+footer {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #070211;
+}
+
+.foot-address h4 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.foot-contact h4 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.foot-contact2 h4 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.foot-contact {
+    display: flex;
+    gap: 16px;
+
+}
+
+.foot-contact2 {
+    display: flex;
+    gap: 16px;
+
+}
+
+.foot-up {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 120px;
+}
+
+.horizon-1 {
+    max-width: 1600px;
+    margin: 0 auto;
+    opacity: 30%;
+    margin-top: 50px;
+
+
 }
