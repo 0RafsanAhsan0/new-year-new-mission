@@ -281,14 +281,16 @@ main {
     align-items: center;
     margin-bottom: 80px;
     cursor: pointer;
+    
 }
 
 .portfolio-image-1 img:hover {
     border: 3px solid rgb(255, 255, 255);
-    box-shadow: 3px 3px 10px rgb(240, 102, 10);
+    box-shadow: 5px 5px 15px rgb(240, 136, 1);
     border-left: 0;
     border-top: 0;
     border-radius: 16px;
+    opacity: 85%;
 }
 
 .portfolio-image-2 {
@@ -299,10 +301,11 @@ main {
 
 .portfolio-image-2 img:hover {
     border: 3px solid rgb(255, 255, 255);
-    box-shadow: 3px 3px 10px rgb(240, 102, 10);
+    box-shadow: 5px 5px 15px rgb(240, 136, 1);
     border-left: 0;
     border-top: 0;
     border-radius: 16px;
+    opacity: 85%;
 }
 
 /* newsletter styles */
